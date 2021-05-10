@@ -1,1 +1,4 @@
-
+#This is a python notebook that will import pandas as pd and numpy as np.
+import pandas as pd
+impoprt numpy as np
+print("Hello Capstone Project Course!")
